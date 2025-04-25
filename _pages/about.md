@@ -12,7 +12,7 @@ Welcome to my webpage, here you will find my skills, experience, and projects
 
 My Resume
 ---
-[Download Resume](assets/Resume.pdf)
+
 
 Projects
 ---
