@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Iroquois-Falls Web Page"
+excerpt: "This is a YouTube link to a live demo of the Iroquois-Fall Web App"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+**Project Overview**
+The Iroquois-Falls Web App is a software design project in which Django, python, HTML, and CSS were used. The app implements login through Microsoft, and is based on users and their roles within the web app.
+
+**YouTube Link of the Demo**
+https://www.youtube.com/watch?v=kqkjt9W8pR8&ab_channel=Makayla 
