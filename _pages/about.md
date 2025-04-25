@@ -20,14 +20,20 @@ Take a look in Portfolio about the Iroquois-Falls Web App
 
 Skills
 ---
-Take a look in CV about my current skills
+* Programming Languages:
+    * C++
+    * HTML
+    * CSS
+    * JavaScript
+    * Python
+    * LaTex
+ * Familiar with Django
+ * GitHub
+ * Fluency in English and Spanish
+
 
 
 Portfolio
----
-title: "Iroquois-Falls Web Page"
-excerpt: "This is a YouTube link to a live demo of the Iroquois-Fall Web App"
-collection: portfolio
 ---
 
 **Project Overview**
