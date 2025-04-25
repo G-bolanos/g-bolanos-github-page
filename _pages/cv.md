@@ -11,35 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science, University of Houston
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* April 2024: Lead Instructor
+  * iCode
+  * Duties include: Teaching classes on web development using HTML, CSS, JavaScript, as well as 3D printing and animation
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
+* May 2021: On Call Server
+  * Cotton Holdings
+  * Duties include: Preparing, setting up, and cleaning up for banquet events, as well as serving on the line
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages:
+    * C++
+    * HTML
+    * CSS
+    * JavaScript
+    * Python
+    * LaTex
+ * Familiar with Django
+ * GitHub
+ * Fluency in English and Spanish
+
+
 
 Publications
 ======
